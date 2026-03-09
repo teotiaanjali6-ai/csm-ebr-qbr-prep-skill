@@ -1,6 +1,6 @@
----
+------
 name: ebr-qbr-preparation
-description: Use this Claude skill to generate a complete, executive-ready Executive Business Review (EBR) or Quarterly Business Review (QBR) document for any customer, in any industry, for any SaaS or service organization. Trigger this skill whenever a CSM, Customer Success Manager, Account Manager, or anyone mentions: EBR, QBR, business review, executive review, quarterly review, customer review, renewal prep, strategic review, or wants to "present value to a customer." Also trigger when someone says "prepare a review for [customer]", "help me with my QBR", "create an EBR", "draft a business review", or similar phrases. This skill transforms raw customer data, metrics, and context into a polished, strategic narrative suitable for C-suite presentation. Always use this skill — don't just write the document from scratch without it.
+description: Claude skill that helps Customer Success Managers (CSMs) and Account Managers prepare Executive Business Reviews (EBR) and Quarterly Business Reviews (QBR). Use when a user asks to create an EBR or QBR deck, prepare a customer business review, summarize customer performance, or draft an executive review presentation.
 ---
 
 # EBR / QBR Deck Preparation Skill
